@@ -1,4 +1,4 @@
-# buy_me_that_look
+# Buy me that look
 
 Module-1:Pose detction file "CS2_Module_1.ipynb"
 Module-2:Fashion Object detection and localizaton file "CS2_Module_2.ipynb"
